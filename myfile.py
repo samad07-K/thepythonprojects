@@ -1,0 +1,12 @@
+myf=open(r'simmmy.txt',"r")
+str=myf.read()
+print(str)
+g=myf.readlines()
+print(g)
+T=myf.readline(3)
+print(T)
+L=int(input("enter thel faata"))
+for i in range(1,L):
+    h=str(input("w chat"))
+    Y=h.write()
+myf.close()
