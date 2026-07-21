@@ -9,3 +9,4 @@ U=trent+tfood+k
 print("₹",U,"is the total expenditure")
 E=U/N
 print("₹",E,"is the total cost per person")
+####the most basic code 
